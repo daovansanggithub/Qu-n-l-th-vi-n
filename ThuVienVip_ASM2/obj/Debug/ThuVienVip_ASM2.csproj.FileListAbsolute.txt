@@ -1,0 +1,14 @@
+D:\Sql\ThuVienVip_ASM2\ThuVienVip_ASM2\bin\Debug\ThuVienVip_ASM2.exe.config
+D:\Sql\ThuVienVip_ASM2\ThuVienVip_ASM2\bin\Debug\ThuVienVip_ASM2.exe
+D:\Sql\ThuVienVip_ASM2\ThuVienVip_ASM2\bin\Debug\ThuVienVip_ASM2.pdb
+D:\Sql\ThuVienVip_ASM2\ThuVienVip_ASM2\obj\Debug\ThuVienVip_ASM2.csproj.AssemblyReference.cache
+D:\Sql\ThuVienVip_ASM2\ThuVienVip_ASM2\obj\Debug\ThuVienVip_ASM2.Properties.Resources.resources
+D:\Sql\ThuVienVip_ASM2\ThuVienVip_ASM2\obj\Debug\ThuVienVip_ASM2.csproj.GenerateResource.cache
+D:\Sql\ThuVienVip_ASM2\ThuVienVip_ASM2\obj\Debug\ThuVienVip_ASM2.csproj.CoreCompileInputs.cache
+D:\Sql\ThuVienVip_ASM2\ThuVienVip_ASM2\obj\Debug\ThuVienVip_ASM2.exe
+D:\Sql\ThuVienVip_ASM2\ThuVienVip_ASM2\obj\Debug\ThuVienVip_ASM2.pdb
+D:\Sql\ThuVienVip_ASM2\ThuVienVip_ASM2\obj\Debug\ThuVienVip_ASM2.frmLogin.resources
+D:\Sql\ThuVienVip_ASM2\ThuVienVip_ASM2\obj\Debug\ThuVienVip_ASM2.frmAdmin.resources
+D:\Sql\ThuVienVip_ASM2\ThuVienVip_ASM2\obj\Debug\ThuVienVip_ASM2.frmNguoiDoc.resources
+D:\Sql\ThuVienVip_ASM2\ThuVienVip_ASM2\obj\Debug\ThuVienVip_ASM2.frmNguoiDung.resources
+D:\Sql\ThuVienVip_ASM2\ThuVienVip_ASM2\obj\Debug\ThuVienVip_ASM2.frmDangKi.resources
